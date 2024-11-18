@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Salesforce Devloper**
+- 🔭 I’m currently working on **Embedded System Design**
 
-- 🌱 I’m currently learning **IT Automation Through PYTHON**
+- 🌱 I’m currently learning **AI/ML models for healthcare and V&V for automation**
 
-- 💬 Ask me about **C, Core Java, Python, Unix Shell Scripting, Data Structures, Dynamic Programming**
+- 💬 Ask me about **C/C++, Python, Unix Shell Scripting, Data Structures & Algorithm**
 
 - 📫 How to reach me **arpit181001002080@gmail.com**
 
