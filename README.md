@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Embedded System Design & Rust for Backend services**
 
-- 🌱 I’m currently learning **AI/ML models for healthcare and V&V for automation**
+- 🌱 **AI/ML models for healthcare, V&V  and automation** are my current studies
 
-- 💬 Ask me about **C/C++,Rust, Python, Unix Shell Scripting, Data Structures & Algorithm**
+- 💬 Ask me about **C/C++, Rust, Python, Unix Shell Scripting, Data Structures & Algorithm, IOT technology : BLE/WiFi, backend services protocols: SPI/I2C (embedded) & rabbitMQ (software)**
 
 - 📫 How to reach me **arpit181001002080@gmail.com**
 
